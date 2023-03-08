@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to my Github! 
+### Hi there 👋 welcome to my Github page! 
 
 #### I am currently learning to code via Scrimba's Frontend Developer Bootcamp.
 
